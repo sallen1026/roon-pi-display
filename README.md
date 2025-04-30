@@ -5,6 +5,8 @@ This project sets up a Raspberry Pi to:
 - Display your Roon "Now Playing" screen fullscreen
 - Automatically fall back to a large 24-hour digital clock if Roon is unreachable
 
+  <https://chatgpt.com/c/681034b2-bfd8-800d-b6bb-e181313b4b44>
+
 ## Install
 
 Run the following on your Pi (after cloning or pointing to this repo):
